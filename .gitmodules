@@ -1,0 +1,3 @@
+[submodule "instagram_frontend"]
+	path = instagram_frontend
+	url = https://github.com/abdallahSQaradeh/instagram_frontend.git
